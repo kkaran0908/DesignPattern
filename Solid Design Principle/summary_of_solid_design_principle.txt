@@ -1,0 +1,16 @@
+1. Single Responsibility Principle:
+
+A class should only have single reason to change
+Separation of concerns i.e. a class must handle only single responsibility
+
+2. Open-Closed Principle:
+
+Class should be close for modification but open for extension
+
+3. Interface segregation principle
+
+Don't put too much into an interface but split into separate interfaces
+
+4. Dependency inversion principle
+
+High-Level modules/constructs must not be dependent on low-level modules/constructs 
