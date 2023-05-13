@@ -1,0 +1,8 @@
+It is kind of very hated design pattern.
+
+According to Erich Gamma
+
+"
+When discussing which pattern to drop, we found that we still love them all(Not really- I am in favour of droping
+singleton design pattern). Its uasge is almost always a design smell.
+"
