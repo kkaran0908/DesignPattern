@@ -1,0 +1,13 @@
+Motivation:
+1. Object creation logic becomes too convoluted
+2. Constructor logic is not descriptive
+2.1 Name Mandated by name of containing type
+2.2 Can not overload with same set of arguments with same name
+2.3 can turn into optional parameter hell
+3. Object creation can be outsourced to either some class or some particular function
+
+Why to Use:
+
+Factory Method Pattern allows the sub-classes to choose the type of objects to create. 
+It promotes the loose-coupling by eliminating the need to bind application-specific 
+classes into the code.
